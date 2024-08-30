@@ -1,3 +1,3 @@
-# Pose-Estimation-from-Bounding-Boxes
+# Camera Pose Estimation from Bounding Boxes
 
 Code available soon
